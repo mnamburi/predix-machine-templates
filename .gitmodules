@@ -1,0 +1,12 @@
+[submodule "predix-machine-template-adapter"]
+	path = predix-machine-template-adapter
+	url = https://github.build.ge.com/adoption/predix-machine-template-adapter.git
+	branch = develop
+[submodule "predix-machine-template-adapter-edison"]
+	path = predix-machine-template-adapter-edison
+	url = https://github.build.ge.com/adoption/predix-machine-template-adapter-edison.git
+	branch = develop
+[submodule "predix-machine-template-adapter-pi"]
+	path = predix-machine-template-adapter-pi
+	url = https://github.build.ge.com/adoption/predix-machine-template-adapter-pi.git
+	branch = develop
